@@ -1,0 +1,31 @@
+Q1 - B
+Q2 - B
+Q3 -
+Q4 - A
+Q5 - A
+Q6 - A
+Q7 - B
+Q8 - B
+Q9 - A,B
+Q10 -B
+
+Q11 -A
+Q12 -B
+Q13 -c
+Q14 -A
+Q15 -C
+Q16 -C
+Q17 -D
+Q18 -A
+Q19 -D
+Q20 -D
+Q21 -A
+Q22 -B
+Q23 -B
+Q24 -B
+Q25 -D
+Q26 -D
+Q27 -C
+Q28 -A
+Q29 -B
+Q30 -A
